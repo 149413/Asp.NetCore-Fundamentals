@@ -2,7 +2,7 @@
 
 ## 📖 Description  
 This project provides educational solutions covering the fundamentals of **.NET Core** and **C#**.  
-It starts with language basics, then moves to **OOP**, advanced concepts, data handling with **LINQ** and **Entity Framework Core**, and finally building web apps using **MVC** and **Web API**.  
+It starts with **SQL Server & Database** essentials,language basics, then moves to **OOP**, advanced concepts, data handling with **LINQ** and **Entity Framework Core**, and finally building web apps using **MVC** and **Web API**.  
 The goal is a practical reference to help beginners and developers step by step.  
 
 ---
@@ -18,7 +18,9 @@ The goal is a practical reference to help beginners and developers step by step.
 ---
 
 ## 📂 Contents  
-- **C# Basics** – variables, data types, object , functions , control structures.  
+- **C# Basics** – variables, data types, object , functions , control structures.
+- **SQL Server & Database** – DDL, DML,DQL , TCL , DCL,Schemas, queries, Aggragate Functions,
+  join , functions , Views , stored procedures,Trigger, backups. 
 - **OOP (Object-Oriented Programming)** – classes, Encapsolation , inheritance, polymorphism, interface.  
 - **C# Advanced** – delegates, events, generics, Collections(DataStucture) , LINQ.  
 - **Entity Framework Core** – database integration and ORM fundamentals.  
