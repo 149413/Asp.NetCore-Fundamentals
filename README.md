@@ -20,9 +20,9 @@ The goal is a practical reference to help beginners and developers step by step.
 ---
 
 ## 📂 Contents  
-- **C# Basics** – variables, data types, control structures.  
-- **OOP (Object-Oriented Programming)** – classes, inheritance, polymorphism.  
-- **C# Advanced** – delegates, events, generics, LINQ.  
+- **C# Basics** – variables, data types, object , functions , control structures.  
+- **OOP (Object-Oriented Programming)** – classes, Encapsolation , inheritance, polymorphism, interface.  
+- **C# Advanced** – delegates, events, generics, Collections(DataStucture) , LINQ.  
 - **Entity Framework Core** – database integration and ORM fundamentals.  
 - **ASP.NET Core MVC** – building web applications with MVC architecture.  
 - **ASP.NET Core Web API** – creating RESTful APIs.  
@@ -33,3 +33,32 @@ The goal is a practical reference to help beginners and developers step by step.
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Mohamed012004/Asp.NetCore-Fundamentals.git
+2. Open the desired solution (.sln) in Visual Studio 2022.
+
+3. Restore NuGet packages.
+
+4. Run the project using IIS Express or Kestrel server.
+
+## ⚙️ Prerequisites
+
+ - Visual Studio 2022
+ - with .NET 6/7 SDK installed.
+
+ - Basic knowledge of C# and OOP concepts.
+
+- SQL Server or SQLite (for EF Core examples).
+
+## 💡 Examples
+
+- Querying data using LINQ.
+
+- CRUD operations with Entity Framework Core.
+
+- Building a simple MVC web app.
+
+- Creating and testing a RESTful Web API.
+
+ ## 📜 License
+
+ This project is licensed under the MIT License – see the LICENSE
+ file for details.
