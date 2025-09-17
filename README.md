@@ -19,7 +19,7 @@ The goal is a practical reference to help beginners and developers step by step.
 
 ## 📂 Contents  
 - **C# Basics** – variables, data types, object , functions , control structures.
-- **SQL Server & Database** – DDL, DML,DQL , TCL , DCL,Schemas, queries, Aggragate Functions,
+- **SQL Server & Database** – DDL, DML,DQL,TCL,DCL,Schemas, queries, Aggragate Functions,
   join , functions , Views , stored procedures,Trigger, backups. 
 - **OOP (Object-Oriented Programming)** – classes, Encapsolation , inheritance, polymorphism, interface.  
 - **C# Advanced** – delegates, events, generics, Collections(DataStucture) , LINQ.  
