@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dem01", "Dem01\Dem01.csproj", "{25442C2F-5FB3-4C60-B2C9-2C355741B8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assian01", "Assian01\Assian01.csproj", "{2CECEDE2-C70A-4171-9826-14D58E80D706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25442C2F-5FB3-4C60-B2C9-2C355741B8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25442C2F-5FB3-4C60-B2C9-2C355741B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25442C2F-5FB3-4C60-B2C9-2C355741B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25442C2F-5FB3-4C60-B2C9-2C355741B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CECEDE2-C70A-4171-9826-14D58E80D706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CECEDE2-C70A-4171-9826-14D58E80D706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CECEDE2-C70A-4171-9826-14D58E80D706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CECEDE2-C70A-4171-9826-14D58E80D706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A16F59-A803-4ECB-8986-B06168882C96}
+	EndGlobalSection
+EndGlobal
