@@ -1,7 +1,5 @@
 # Asp.NetCore-Fundamentals
 
-# Asp.NetCore Fundamentals
-
 ## 📖 Description  
 This project provides educational solutions covering the fundamentals of **.NET Core** and **C#**.  
 It starts with language basics, then moves to **OOP**, advanced concepts, data handling with **LINQ** and **Entity Framework Core**, and finally building web apps using **MVC** and **Web API**.  
@@ -42,7 +40,7 @@ The goal is a practical reference to help beginners and developers step by step.
 ## ⚙️ Prerequisites
 
  - Visual Studio 2022
- - with .NET 6/7 SDK installed.
+ - with .NET 8/9 SDK installed.
 
  - Basic knowledge of C# and OOP concepts.
 
